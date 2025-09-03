@@ -4,9 +4,6 @@
   <a href="[https://www.linkedin.com/in/rebeca-pimenta-a1a339233/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="Botão para o LinkedIn">
   </a>
-  <a href="mailto:[becateotonio3@gmail.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" alt="Botão para o E-mail">
-  </a>
 </p>
 
 ---
